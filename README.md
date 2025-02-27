@@ -5,7 +5,6 @@
 </p>
 
 <hr>
----
 
 ## 🌟 About Me:
 🚀 **Passions:** *Full-Stack Development, Hackathons, Open Source & Competitive Programming.*  
