@@ -43,6 +43,6 @@
 </p>
 
 ### 🐍 Contribution Snake:
-![Snake animation](https://github.com/imrinal/imrinal/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/imrinal/output/github-contribution-grid-snake.svg)
 
 
