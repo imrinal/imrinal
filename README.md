@@ -1,11 +1,9 @@
-# 🌟 About Me:
-👋 **Hey, I’m @imrinal!** A **problem solver & tech enthusiast** who loves building cool stuff. <br> 🚀 **Passions:** **Full-Stack Dev, Hackathons, Open Source & Competitive Programming.** <br>  
-🌱 **Learning:** **DSA (Java & C), Web Dev (React, Node.js, MongoDB, SQL, WebRTC).** <br>  
-🎯 **Exploring:** **AI/ML, Cloud & DevOps—curious, but not deep into them yet!** <br>  
-💡 **Let’s build:** **Web projects, hackathons & open-source contributions.** <br>  
-📫 **Find me:** [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mrinal.paul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinalpaul12) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?logo=github&logoColor=white)](https://github.com/imrinal) <br>  
-⚡ **Fun fact:** **Led 6+ hackathon teams & love problem-solving marathons!** 🚀
+# Hi there! 👋 I'm Mrinal  
 
+🚀 **Tech Enthusiast** | **Full Stack Developer** | **Open Source Contributor**
+
+## 🌟 About Me:
+👋 **Hey, I’m @imrinal!** A **problem solver & tech enthusiast** who loves building cool stuff. <br> 🚀 **Passions:** **Full-Stack Dev, Hackathons, Open Source & Competitive Programming.** <br> 🌱 **Learning:** **DSA (Java & C), Web Dev (React, Node.js, MongoDB, SQL, WebRTC).** <br> 🎯 **Exploring:** **AI/ML, Cloud & DevOps—curious, but not deep into them yet!** <br> 💡 **Let’s build:** **Web projects, hackathons & open-source contributions.** <br> ⚡ **Fun fact:** **Led 6+ hackathon teams & love problem-solving marathons!** 🚀
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/4eHRuZgP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_mrinal.paul_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mrinalpaul12) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/paulmrinal12) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Mrinal-Paul-51) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PMrinal12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:paulmrinal12@gmail.com) 
