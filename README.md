@@ -1,11 +1,6 @@
 <p align="center">
-  <img src="https://github.com/imrinal/Portfolio/blob/main/images/banner.png?raw=true" 
-       alt="Banner" 
-       width="100%" 
-       height="200px" 
-       style="border-radius: 20px;">
+  <img src="https://github.com/imrinal/Portfolio/blob/main/images/banner.png?raw=true" alt="Banner" width="100%" height="200px">
 </p>
-
 
 <h1 align="center">Hi there! 👋 I'm Mrinal</h1>  
 
