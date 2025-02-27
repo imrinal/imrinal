@@ -1,6 +1,10 @@
-# Hi there! 👋 I'm Mrinal  
+<h1 align="center">Hi there! 👋 I'm Mrinal</h1>  
 
-🚀 **Tech Enthusiast** | **Full Stack Developer** | **Open Source Contributor**
+<p align="center">
+🚀 <strong>Tech Enthusiast</strong> | <strong>Full Stack Developer</strong> | <strong>Open Source Contributor</strong>  
+</p>
+
+<hr>
 
 ## 🌟 About Me:
 👋 **Hey, I’m @imrinal!** A **problem solver & tech enthusiast** who loves building cool stuff. <br> 🚀 **Passions:** **Full-Stack Dev, Hackathons, Open Source & Competitive Programming.** <br> 🌱 **Learning:** **DSA (Java & C), Web Dev (React, Node.js, MongoDB, SQL, WebRTC).** <br> 🎯 **Exploring:** **AI/ML, Cloud & DevOps—curious, but not deep into them yet!** <br> 💡 **Let’s build:** **Web projects, hackathons & open-source contributions.** <br> ⚡ **Fun fact:** **Led 6+ hackathon teams & love problem-solving marathons!** 🚀
@@ -18,9 +22,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imrinal&theme=slateorange&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=imrinal&label=Profile%20Views&color=0e75b6&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=imrinal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</p>
+
 
