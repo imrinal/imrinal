@@ -43,8 +43,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imrinal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
-
-### 🐍 Contribution Snake:
-![Snake animation](https://raw.githubusercontent.com/imrinal/output/github-contribution-grid-snake.svg)
-
-
