@@ -23,10 +23,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imrinal&theme=swift&hide_border=false&include_all_commits=true&count_private=true&card_width=450" width="48%" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=imrinal&theme=swift&hide_border=false&card_width=450" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imrinal&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact&card_width=600" width="50%" />
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=imrinal&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 
