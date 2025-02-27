@@ -8,7 +8,7 @@
 
 ## 🌟 About Me:
 🚀 **Passions:** *Full-Stack Development, Hackathons, Open Source & Competitive Programming.*  
-🌱 **Currently Learning:** *DSA (Java & C), Web Development (React, Node.js, MongoDB, SQL, WebRTC).*  
+🌱 **Currently Learning:** *DSA (Java & C), Web Development (React, Node.js, MongoDB, SQL).*  
 🎯 **Exploring:** *AI/ML, Cloud & DevOps — curious, but not deep into them yet!*  
 💡 **Let’s Build Together:** *Web projects, hackathons & open-source contributions.*  
 🔥 **Fun Fact:** *Led 6+ hackathon teams & love problem-solving marathons!* 🚀  
